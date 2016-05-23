@@ -4,11 +4,11 @@ author: "ultimoromantico"
 description: "e niente..."
 #subheading: "e niente..."
 more: "read more"
-url: "http://niklabs.me"
+url: "http://ultimodeiromantici.com"
 #baseurl: "/contrast" # comment out if in root directory
 
-comments:
-    disqus: "niklasbuschmann"
+#comments:
+#    disqus: "niklasbuschmann"
 #    isso: "comments.mysite.org"
 
 style:
@@ -23,13 +23,13 @@ style:
         odd: "#ffffff"
         even: "#222222"
 
-links:
-  - github: "https://github.com/me/"
-  - twitter: "https://twitter.com/me/"
-  - google-plus: "https://plus.google.com/+me"
-  - reddit: "https://www.reddit.com/user/me/"
-  - youtube: "https://www.youtube.com/user/me"
-  - steam: "http://steamcommunity.com/id/me/"
+# links:
+#   - github: "https://github.com/me/"
+#   - twitter: "https://twitter.com/me/"
+#   - google-plus: "https://plus.google.com/+me"
+#   - reddit: "https://www.reddit.com/user/me/"
+#   - youtube: "https://www.youtube.com/user/me"
+#   - steam: "http://steamcommunity.com/id/me/"
 
 paginate: 10
 excerpt_separator: "\n\n\n" # excerpt ends after two blank lines

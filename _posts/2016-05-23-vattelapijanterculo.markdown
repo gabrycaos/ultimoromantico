@@ -16,6 +16,6 @@ categories: storie
 
  Dopo aver finito di raccogliere tutte le braccia (me ne erano cadute veramente tante), ed aver tamponato il sangue che ha iniziato ad uscirmi dalle orecchie, la tizia in questione vedendomi in leggero imbarazzo mi fa: "Non ho idea di cosa voglia dire quella frase, mi hanno detto che in italia è una cosa carina da dire ad una persona"; a quel punto hanno iniziato a sanguinare pure a lei le orecchie per la vergogna, dopo averle spiegato il significato (in maniera abbastanza schietta), il tutto si è risolto con una risata e qualche battuta.
 
- Ora dovrei scrivere una conclusione, ma non ho la più pallida idea di cosa scrivere, spero solo di avervi fatto passare dieci minuti in allegria.
+ Ora dovrei scrivere una conclusione, ma non ho la più pallida idea di cosa scrivere, ciao.
 
  P.S. per i più maliziosi: no, niente lingua in bocca alla fine.

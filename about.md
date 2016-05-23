@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Perchè sta cosa
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+E niente... perchè sto sito? Non lo so... L'ho aperto per cazzarare con alcuni amici, non ho pretese e non mi aspetto nulla.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In ogni caso se un giorno trovi questo sito come primo risultato su Google fammelo sapere che hai una birra pagata, devi stare peggio di me per cercare argomenti che riportano a questo blog.

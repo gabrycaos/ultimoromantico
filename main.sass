@@ -12,6 +12,7 @@ $headline: {% if site.style.headline %}{{ site.style.headline }}{% else %}#06f{%
 $description: {% if site.style.description %}{{ site.style.description }}{% else %}white{% endif %}
 $odd: {% if site.style.article.odd %}{{ site.style.article.odd }}{% else %}white{% endif %}
 $even: {% if site.style.article.even %}{{ site.style.article.even }}{% else %}#222{% endif %}
+$black: #222
 
 body
     +body_background($body, $padding)
@@ -27,7 +28,7 @@ body
 body > header h1
     font-weight: bold
 
-h1, h2, h3, h4, h5, h6 
+h1, h2, h3, h4, h5, h6
     font-family: "Gentium Basic", serif
     letter-spacing: 2px
     header &
@@ -64,3 +65,16 @@ article:nth-of-type(odd)
     color: reduce($odd, 100%)
 
 @import vendor
+
+.header-background
+    background-image: url("img/antergos-bg.jpg")
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+
+.header-background > h1 > a
+    text-shadow: 1px 1px 1px #000000
+
+.header-background > nav > ul > li > a
+    font-weight: 600
+    text-shadow: 1px 1px 1px #000000
