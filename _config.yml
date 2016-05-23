@@ -2,7 +2,7 @@
 title: "L'ultimo dei romantici"
 author: "ultimoromantico"
 description: "e niente..."
-subheading: "e niente..."
+#subheading: "e niente..."
 more: "read more"
 url: "http://niklabs.me"
 #baseurl: "/contrast" # comment out if in root directory
